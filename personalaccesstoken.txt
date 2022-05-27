@@ -1,0 +1,7 @@
+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
+
+
+
+
+
+$ curl -u rupeshPlant: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 https://api.github.com/rupeshPant
